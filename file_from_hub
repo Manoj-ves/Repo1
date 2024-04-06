@@ -3,4 +3,7 @@ added to line to check it from fetch command in bash
 Checking Diff : Using hub
 diff
 git diff --staged
+<<<<<<< HEAD
 reset
+=======
+>>>>>>> 9929b4d4938201a468d6061ae202007a1e473513
